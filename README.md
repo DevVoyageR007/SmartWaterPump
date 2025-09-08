@@ -31,4 +31,4 @@ SmartWaterPump is an IoT-based system that monitors tank water levels and contro
 ![Circuit Diagram](https://github.com/DevVoyageR007/SmartWaterPump/blob/main/Circuir%20Diagram.png?raw=true)
 
 ## 📸 Demo Video
-🎥 ![Watch the demo video here](https://drive.google.com/file/d/1BAiSAegYJm44dWRF7oV23e10vKRm4ATc/view?usp=sharing)
+🎥 [Watch the demo video here](https://drive.google.com/file/d/1BAiSAegYJm44dWRF7oV23e10vKRm4ATc/view?usp=sharing)
