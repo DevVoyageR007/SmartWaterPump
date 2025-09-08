@@ -3,7 +3,7 @@
 #include <Preferences.h>
 
 // ===== Wi-Fi (your credentials) =====
-const char* WIFI_SSID = "z4zitu";
+const char* WIFI_SSID = "Santanu";
 const char* WIFI_PASS = "12344321";
 
 // ===== Pins =====
